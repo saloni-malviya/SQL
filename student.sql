@@ -1,4 +1,4 @@
-
+/* Basic Sql query to create table, insert data and fetch data */
 use college;
 create table student(
 rollno int primary key,
